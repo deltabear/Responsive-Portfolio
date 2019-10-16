@@ -139,7 +139,7 @@ h3, h2 {
   float: left;
   width: 274px;
   margin: 20px 0 25px;
-  overflow: auto;
+
 }
 
 .work:nth-child(even) {
@@ -164,6 +164,11 @@ h3, h2 {
   text-align: center;
   background: #4aaaa5;
   border-bottom: 0;
+}
+
+.work-links {
+  position: inherit;
+  float: left;
 }
 
 .auth-image {
